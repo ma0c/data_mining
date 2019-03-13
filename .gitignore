@@ -2,3 +2,6 @@
 
 .ipynb_checkpoints
 clases
+
+exploratory_analysis/estaciones.csv
+exploratory_analysis/prec_dia.csv
